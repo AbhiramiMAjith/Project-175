@@ -1,0 +1,45 @@
+{
+    "0" :{
+        "barcode_value" : 0,
+        "model_name" : "base",
+        "model_url" : "#",
+        "position" : {"x" : 0, "y" : 0, "z" : 0},
+        "rotation" : {"x" : -90, "y" : 0, "z" : 0},
+        "color" : "#795548",
+        "width" : 19,
+        "height" : 15
+    },
+    "1" :{
+        "barcode_value" : 1,
+        "model_name" : "road",
+        "model_url" : "",
+        "position" : {},
+        "rotation" :{},
+        "scale" :{},
+        "placement_position" :{},
+        "placement_rotation" :{},
+        "placement_scale" :{}
+    },
+    "2" :{
+        "barcode_value" : 2,
+        "model_name" : "sun",
+        "model_url" : "../assets/models/sun/scene.gltf",
+        "position" : {},
+        "rotation" :{},
+        "scale" :{},
+        "placement_position" :{},
+        "placement_rotation" :{},
+        "placement_scale" :{}
+    },
+    "3" :{
+        "barcode_value" : 3,
+        "model_name" : "car",
+        "model_url" : "../assets/models/car/scene.gltf",
+        "position" : {"x": 0, "y": 0, "z": 0},
+        "rotation" :{"x": 0, "y": -90, "z": 90},
+        "scale" :{"x": 10, "y": 10, "z": 10},
+        "placement_position" :{"x": 1.5998, "y": 1.1, "z": 10.16068},
+        "placement_rotation" :{"x": 0, "y": -90, "z": 0},
+        "placement_scale" :{"x": 0.3, "y": 0.3, "z": 0.3}
+    }
+}
